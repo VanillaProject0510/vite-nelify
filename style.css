@@ -1,7 +1,10 @@
-body{
+
+ 
+body {
+  background-color: #ffc;
   display: flex;
-  height: 100vh;
   justify-content: center;
   align-items: center;
-  background-color: #ffc;
+  height: 100vh;
+
 }
